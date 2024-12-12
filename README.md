@@ -14,4 +14,5 @@
 
 ## Screenshots
 
-![Preview](screenshots/preview.png)
+![Preview](screenshots/products%20page.png)
+![Preview](screenshots/about%20page.png)
