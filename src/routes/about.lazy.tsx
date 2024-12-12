@@ -47,7 +47,7 @@ function About() {
         <p className="text-lg text-gray-600">
           Email:{" "}
           <a href="mailto:info@example.com" className="text-blue-500">
-            info@example.com
+            info@tahoai.com
           </a>
         </p>
       </section>
